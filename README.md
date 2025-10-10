@@ -59,25 +59,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=soloflare1&theme=dracula&no-bg=true&margin-w=16&no-frame=true" 
-    alt="GitHub Trophies"
-    style="
-      width: 90%; 
-      max-width: 900px;
-      border-radius: 15px;
-      box-shadow: 0 0 20px rgba(255,182,193,0.4);
-      margin: 15px 0;
-      transition: transform 0.3s ease-in-out;
-      transform: scale(1.02);
-    "
-  />
-</p>
----
-
 ## 💫 Activity Graph  
 
 <p align="center">
