@@ -1,3 +1,4 @@
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=soloflare1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=soloflare1&theme=dark&hide_border=false)<br/>
@@ -12,4 +13,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=soloflare1&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Contribution Graph
+<h3 align="center">Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soloflare1&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
