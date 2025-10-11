@@ -1,75 +1,90 @@
-<!-- 🌙 Elegant Dark + Cute GitHub Stats Section for soloflare -->
+<!-- 🌙 Unique + Elegant GitHub Stats Section (No JS, Only CSS) -->
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', sans-serif; color: #ffcfe2;">
 
-## 🌸 Visitor Counter  
+  <!-- Stylish Headers with Gradient Text -->
+  <h2 style="
+    font-weight: 700;
+    font-size: 28px;
+    background: linear-gradient(90deg, #ff9ebc, #ffb6c1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 12px;
+    padding: 8px 0;
+  ">
+    🌸 Visitor Counter
+  </h2>
 
-<p align="center">
-  <img 
-    src="https://count.getloli.com/get/@soloflare1?theme=miku" 
-    alt="Visitor Count"
-    width="360"
-    style="
-      border-radius: 25px; 
-      margin-top: 20px; 
-      box-shadow: 0 0 25px rgba(255, 182, 193, 0.6); 
-      background: rgba(255, 240, 245, 0.15); 
-      padding: 10px; 
-      transform: scale(1.03); 
-      transition: transform 0.3s ease-in-out;
-    "
-  />
-</p>
+  <p>
+    <img
+      src="https://count.getloli.com/get/@soloflare1?theme=miku"
+      alt="Visitor Count"
+      width="360"
+      style="
+        border-radius: 25px;
+        margin-top: 15px;
+        box-shadow: 0 0 30px rgba(255, 182, 193, 0.5);
+        background: rgba(255, 240, 245, 0.15);
+        padding: 12px;
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </p>
 
----
+  <hr style="width: 60%; border: 1px solid rgba(255, 182, 193, 0.25); margin: 30px 0;" />
 
-## 💻 GitHub Stats  
+  <h2 style="
+    font-weight: 700;
+    font-size: 28px;
+    background: linear-gradient(90deg, #ff9ebc, #ffb6c1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 12px;
+    padding: 8px 0;
+  ">
+    🌟 Contribution Streak
+  </h2>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=soloflare1&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&icon_color=ff79c6&title_color=ffb6c1" 
-    height="180" 
-    alt="GitHub Stats"
-    style="margin: 10px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloflare1&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ffb6c1" 
-    height="180" 
-    alt="Top Languages"
-    style="margin: 10px;"
-  />
-</p>
+  <p>
+    <img
+      src="https://streak-stats.demolab.com?user=soloflare1&theme=midnight-purple&hide_border=true&background=0d1117&ring=ff8fab&fire=ffb6c1&currStreakLabel=ff8fab"
+      height="180"
+      alt="GitHub Streak"
+      style="margin: 10px;"
+    />
+  </p>
 
-<sub><i>📊 Languages and stats that tell my coding story 🌙</i></sub>
+  <sub style="font-size: 14px; color: #ffd9e8;">
+    <i>🔥 Every day I code a little closer to my dreams ✨</i>
+  </sub>
 
----
+  <hr style="width: 60%; border: 1px solid rgba(255, 182, 193, 0.25); margin: 40px 0;" />
 
-## 🌟 Contribution Streak  
+  <h2 style="
+    font-weight: 700;
+    font-size: 28px;
+    background: linear-gradient(90deg, #ff9ebc, #ffb6c1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 12px;
+    padding: 8px 0;
+  ">
+    💫 Activity Graph
+  </h2>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=soloflare1&theme=midnight-purple&hide_border=true&background=0d1117&ring=ff8fab&fire=ffb6c1&currStreakLabel=ff8fab" 
-    height="180" 
-    alt="GitHub Streak"
-    style="margin: 10px;"
-  />
-</p>
+  <p>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=soloflare1&theme=react-dark&area=true&hide_border=true&line=ff8fab&point=ffb6c1&custom_title=🌸+soloflare's+Coding+Journey+🌸"
+      width="95%"
+      alt="Activity Graph"
+      style="border-radius: 20px; box-shadow: 0 0 30px rgba(255,182,193,0.4); margin: 20px 0;"
+    />
+  </p>
 
-<sub><i>🔥 Every day I code a little closer to my dreams ✨</i></sub>
-
----
-
-## 💫 Activity Graph  
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=soloflare1&theme=react-dark&area=true&hide_border=true&line=ff8fab&point=ffb6c1&custom_title=🌸+soloflare's+Coding+Journey+🌸" 
-    width="95%" 
-    alt="Activity Graph"
-    style="border-radius: 15px; box-shadow: 0 0 20px rgba(255,182,193,0.4); margin: 15px 0;"
-  />
-</p>
-
-<sub><i>✨ A visual diary of my coding adventures 🌙</i></sub>
+  <sub style="font-size: 14px; color: #ffd9e8;">
+    <i>✨ A visual diary of my coding adventures 🌙</i>
+  </sub>
 
 </div>
