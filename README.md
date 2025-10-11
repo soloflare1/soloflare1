@@ -1,3 +1,19 @@
+<blockquote style="
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 15px 25px;
+  background: rgba(255, 182, 193, 0.15);
+  border-left: 6px solid #ff8fab;
+  color: #ff9ebc;
+  font-style: italic;
+  font-size: 18px;
+  box-shadow: 0 4px 15px rgba(255,182,193,0.2);
+  border-radius: 12px;
+  user-select: none;
+">
+                            "When something is important enough, you do it even if the odds are not in your favor."
+</blockquote>
+
 <!-- 🌙 Unique + Elegant GitHub Stats Section (No JS, Only CSS) -->
 
 <div align="center" style="font-family: 'Segoe UI', sans-serif; color: #ffcfe2;">
