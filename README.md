@@ -12,7 +12,7 @@
   border-radius: 12px;
   user-select: none;
 ">
-  "When something is important enough, you do it even if the odds are not in your favor."
+  "Strive for excellence in all you do, for it is a form of worship. Allah loves ihsan."
 </blockquote>
 
 <!-- 🌸 Visitor Counter -->
