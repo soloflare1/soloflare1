@@ -12,7 +12,7 @@
   border-radius: 12px;
   user-select: none;
 ">
-  "Strive for excellence in all you do, for it is a form of worship. Allah loves ihsan."
+  "Strive for excellence in all you do."
 </blockquote>
 
 <!-- 🌸 Visitor Counter -->
