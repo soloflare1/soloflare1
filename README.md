@@ -15,6 +15,14 @@
   "Strive for excellence in all you do."
 </blockquote>
 
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+this+is+SoloFlare's+universe."
+    alt="Typing SVG"
+  />
+</h1>
+
+
 <!-- 🌸 Visitor Counter -->
 ### 🌸 Visitor Counter
 <h3 align="center">
