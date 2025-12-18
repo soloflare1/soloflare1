@@ -12,7 +12,7 @@
   border-radius: 12px;
   user-select: none;
 ">
-  "Strive for excellence in all you do."
+  "What if I fly?"
 </blockquote>
 
 <h1 align="center">
