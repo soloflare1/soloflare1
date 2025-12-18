@@ -48,7 +48,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=soloflare1&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=soloflare1&theme=darkhub&column=4)
 
 ---
 
