@@ -1,20 +1,4 @@
 <!-- ✨ Quote Block -->
-<blockquote style="
-  max-width: 600px;
-  margin: 30px auto;
-  padding: 15px 25px;
-  background: rgba(255, 182, 193, 0.15);
-  border-left: 6px solid #ff8fab;
-  color: #ff9ebc;
-  font-style: italic;
-  font-size: 18px;
-  box-shadow: 0 4px 15px rgba(255,182,193,0.2);
-  border-radius: 12px;
-  user-select: none;
-">
-  "What if I fly?"
-</blockquote>
-
 <h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+this+is+SoloFlare's+universe."
