@@ -1,3 +1,4 @@
+
 <!-- ✨ Quote Block -->
 <h1 align="center">
   <img 
@@ -6,14 +7,12 @@
   />
 </h1>
 
+<!-- 🌸 Enhanced Visitor Counter with Cute Style -->
+<h2>🌸 Visitor Counter 🌸</h2>
 
-<!-- 🌸 Visitor Counter -->
-### 🌸 Visitor Counter
-<h3 align="center">
-  <img src="https://count.getloli.com/get/@soloflare1?theme=miku" alt="Visitor Count" width="300" />
-</h3>
-
----
+<p align="center">
+  <img src="https://count.getloli.com/get/@soloflare1?theme=miku" alt="Visitor Count" width="400" />
+</p>
 
 ### 📊 GitHub Stats
 <div align="center">
