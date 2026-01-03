@@ -1,48 +1,100 @@
 
-<!-- ✨ Quote Block -->
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+this+is+SoloFlare's+universe."
-    alt="Typing SVG"
-  />
-</h1>
-
-<!-- 🌸 Enhanced Visitor Counter with Cute Style -->
-<h2>🌸 Visitor Counter 🌸</h2>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@soloflare1?theme=miku" alt="Visitor Count" width="400" />
-</p>
-
-### 📊 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=soloflare1&theme=dark&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloflare1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-      </td>
-    </tr>
-  </table>
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SoloFlare's%20Universe&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+
 </div>
 
+<br/>
+
+<div align="center">
+
+<!-- 🌸 Visitor Counter -->
+### 🌸 Visitor Counter 🌸
+
+<img src="https://count.getloli.com/get/@soloflare1?theme=miku" alt="Visitor Count" width="400" />
+
+</div>
+
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=soloflare1&theme=darkhub&column=4)
+<br/>
+
+### 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br clear="both"/>
+
+<br/>
 
 ---
 
-## 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+<div align="center">
+
+### GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soloflare1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloflare1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=soloflare1&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=soloflare1&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
 
 ---
 
-## 💫 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soloflare1&theme=react-dark&area=true&hide_border=true&line=ff8fab&point=ffb6c1&custom_title=🌸+soloflare's+Coding+Journey+🌸)
+<br/>
 
-<sub align="center" style="color: #ffd9e8;">
-  <i>✨ A visual diary of my coding adventures 🌙</i>
-</sub>
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=soloflare1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Stats
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soloflare1&theme=radical" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soloflare1&theme=radical&utcOffset=6" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soloflare1&theme=radical" alt="Repos Per Language"/>
+
+</div>
+---
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<!-- Fun Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
