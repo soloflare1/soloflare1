@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<!-- 🌸 Visitor Counter -->
+
 ### 🌸 Visitor Counter 🌸
 
 <img src="https://count.getloli.com/get/@soloflare1?theme=miku" alt="Visitor Count" width="400" />
@@ -23,26 +23,7 @@
 
 <br/>
 
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br clear="both"/>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
-
-### GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soloflare1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloflare1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8"/>
-
-<br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=soloflare1&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 
@@ -69,6 +50,17 @@
 <br/>
 
 ---
+<br/>
+
+### 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br clear="both"/>
+
+<br/>
+
+--
 
 <br/>
 
