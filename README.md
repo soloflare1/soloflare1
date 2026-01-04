@@ -49,24 +49,7 @@
 
 <br/>
 
----
-<br/>
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br clear="both"/>
-
-<br/>
-
---
-
-<br/>
-
-<div align="center">
-
-### 📈 Contribution Stats
+###  Contribution Stats
 
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soloflare1&theme=radical" alt="Profile Details"/>
 
@@ -76,17 +59,21 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soloflare1&theme=radical" alt="Repos Per Language"/>
 
 </div>
----
-
-<br/>
-
----
 
 <br/>
 
 <div align="center">
 
-<!-- Fun Footer -->
+### 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br clear="both"/>
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
