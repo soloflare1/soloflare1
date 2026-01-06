@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SoloFlare's%20Universe&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 </div>
@@ -55,20 +54,11 @@
 
 <br/>
 
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soloflare1&theme=radical&utcOffset=6" alt="Productive Time"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soloflare1&theme=radical" alt="Repos Per Language"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=soloflare1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br clear="both"/>
 
 <br/>
 
