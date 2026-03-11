@@ -55,7 +55,6 @@
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soloflare1&theme=radical&utcOffset=6" alt="Productive Time"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soloflare1&theme=radical" alt="Repos Per Language"/>
 
 </div>
