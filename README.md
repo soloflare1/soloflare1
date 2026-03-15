@@ -4,8 +4,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Strive+for+excellence+in+all+you+do." />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Strive+for+excellence+in+all+you+do.&background=0D1117" />
 </div>
 
 <br/>
