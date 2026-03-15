@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SoloFlare's%20Universe&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Strive+for+excellence+in+all+you+do." />
+
 </div>
 
 <br/>
