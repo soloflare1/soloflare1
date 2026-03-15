@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SoloFlare's%20Universe&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
@@ -9,10 +8,9 @@
 
 <div align="center">
 
-
 ### 🌸 Visitor Counter 🌸
 
-<img src="https://count.getloli.com/get/@soloflare1?theme=miku" alt="Visitor Count" width="400" />
+<img src="https://count.getloli.com/get/@soloflare1?theme=miku" width="400"/>
 
 </div>
 
@@ -20,19 +18,25 @@
 
 ---
 
-<br/>
-
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=soloflare1&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<table>
+<tr>
+<td>
 
-<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=soloflare1&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="450"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=soloflare1&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
+</td>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soloflare1&theme=radical" width="350"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
 
 ---
 
@@ -40,25 +44,16 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### Contribution Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=soloflare1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soloflare1&theme=radical"/>
 
 </div>
-
-<br/>
-
-###  Contribution Stats
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soloflare1&theme=radical" alt="Profile Details"/>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soloflare1&theme=radical" alt="Repos Per Language"/>
-
-</div>
-
-<br/>
 
 ![Snake animation](https://github.com/soloflare1/soloflare1/blob/output/snake.svg)
+
+</div>
