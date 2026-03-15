@@ -61,4 +61,8 @@
 
 <br/>
 
-![Snake animation](https://github.com/soloflare1/soloflare1/blob/output/snake.svg)>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/soloflare1/soloflare1/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
