@@ -10,7 +10,7 @@
 
 <br/>
 
-## `〔 01 〕` &nbsp; Tech Arsenal
+## Tech Arsenal
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-## `〔 02 〕` &nbsp; GitHub Stats
+## GitHub Stats
 
 <br/>
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-## `〔 03 〕` &nbsp; Contribution Snake
+## Contribution Snake
 
 <br/>
 
