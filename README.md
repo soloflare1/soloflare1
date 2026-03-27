@@ -37,8 +37,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1a0a2e,100:0D1117&height=60&text=✦+Strive+for+excellence+in+all+you+do.+✦&fontSize=18&fontColor=F85D7F&fontAlignY=55&animation=fadeIn" width="88%"/>
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,50:1a0a2e,100:0D1117&height=120&section=footer" />
 </div>
