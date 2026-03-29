@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1a0a2e,70:F85D7F,100:0D1117&height=250&section=header&text=SoloFlare&fontSize=90&fontAlignY=48&animation=fadeIn&fontColor=ffffff&stroke=F85D7F&strokeWidth=2.5&descAlignY=68&descSize=17&descAlign=50" width="100%"/>
 <br/>
@@ -6,7 +7,7 @@
 
 <br/>
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -24,7 +25,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 <img
@@ -37,5 +38,12 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1a0a2e,100:0D1117&height=60&text=✦+Strive+for+excellence+in+all+you+do.+✦&fontSize=18&fontColor=F85D7F&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=60&text=✦+Strive+for+excellence+in+all+you+do.+✦&fontSize=16&fontColor=F85D7F&fontAlignY=65&animation=twinkling"
+  width="100%"
+/>
+
 </div>
+
+
