@@ -6,10 +6,6 @@
   />
 </p>
 
-##  Visitor Counter
-<p align="center">
-  <img src="https://count.getloli.com/get/@soloflare1?theme=dracula" width="180" alt="Visitor Count"/>
-</p>
 
 ## GitHub Metrics
 
